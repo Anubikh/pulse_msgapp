@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "857969369027",
+    "project_id": "minimsgapp-f07b0",
+    "storage_bucket": "minimsgapp-f07b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857969369027:android:ef1333bb3478de39576776",
+        "android_client_info": {
+          "package_name": "com.minimsapp.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1Lmb-StfWq2e70Q-LdNCQD9Axfaf0cvc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
